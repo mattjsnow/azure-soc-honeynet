@@ -72,8 +72,7 @@ Compliance Framework Adoption: NIST SP 800-53 R5 regulatory compliance was adopt
 Detailed Hardening Steps:
 Virtual networks were protected using Azure Firewall.
 Subnets were associated with network security groups to control traffic flow.
-Adaptive network hardening recommendations were applied to internet-facing virtual machines to further fortify defenses.
-Azure AI Services resources were configured to restrict network access, reducing the attack surface.
+Adaptive network hardening recommendations were applied to internet-facing virtual machines.
 Azure Key Vaults were configured to utilize private link, enhancing security and confidentiality of stored secrets.
 
 ## Attack Maps Before Hardening / Security Controls
